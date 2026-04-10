@@ -15,8 +15,8 @@ const options = {
     },
     servers: [
       {
-        url: 'http://localhost:5000',
-        description: 'Development server',
+        url: 'https://cloudbackend-production-a68f.up.railway.app',
+        description: 'Production server',
       },
     ],
     components: {
